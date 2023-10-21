@@ -15,9 +15,10 @@ I'm also 1/2 of <a target="_blank" href="https://www.spellboundfire.com">Spellbo
 
 If you’d like to get in touch or collaborate, you can always email me at <a href="mailto:alexflannelmusic@gmail.com" target="_blank">alexflannelmusic@gmail.com</a>
 
-<a target="_blank" href="https://www.instagram.com/alexflannel/" class="fa fa-instagram"/>
-<a target="_blank" href="https://soundcloud.com/alexflannel" class="fa fa-soundcloud"/>
-<a target="_blank" href="https://spotify.com/alexflannel" class="fa fa-spotify"/>
+<a target="_blank" href="https://www.instagram.com/alexflannel/" class="social fa fa-instagram"/>
+<a target="_blank" href="https://soundcloud.com/alexflannel" class="social fa fa-soundcloud"/>
+<a target="_blank" href="https://spotify.com/alexflannel" class="social fa fa-spotify"/>
+
 <hr/>
 
 # Projects
