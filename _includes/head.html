@@ -1,12 +1,31 @@
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-</head>
+<header>
+  <h1 class="main"><a href="/#top">Alex Flannel</a></h1>
+  <ul class="visible-links">
+    {%- for link in site.data.navigation.main -%}
+    <li class="masthead__menu-item">
+      <a
+        href="{{ link.url | relative_url }}"
+        {%
+        if
+        link.description
+        %}
+        title="{{ link.description }}"
+        {%
+        endif
+        %}
+        >{{ link.title }}</a
+      >
+    </li>
+    {%- endfor -%}
+    <li class="masthead__menu-item">
+      <a target="_blank" href="https://www.spellboundfire.com">
+        Spellboundfire
+      </a>
+    </li>
+    <li class="masthead__menu-item">
+      <a target="_blank" href="https://alexflannel.newgrounds.com/">
+        Newgrounds
+      </a>
+    </li>
+  </ul>
+</header>

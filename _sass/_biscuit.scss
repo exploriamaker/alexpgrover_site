@@ -1,0 +1,256 @@
+
+html {
+  font: 15px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background-color: #000;
+  background-image: linear-gradient(to bottom, transparent, transparent 80%, rgba(0, 0, 0, 0.9)), url('../content/images/pexels-jonathan-formento-4337199.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+header {
+  margin: 0;
+  padding: 0;
+}
+
+@media (min-width: 30rem) {
+  html {
+    font-size: 18px;
+  }
+
+}
+
+
+body {
+  padding: 0;
+  color: #fff;
+  background-color: #3711c199
+
+}
+header, footer {
+  background-color: rgba(55, 17, 193, 0.6)
+}
+
+@media (min-width: 30rem) {
+  body {
+    padding-top: 5rem;
+  }
+}
+
+a {
+  color: #00ff59; /* From http://clrs.cc */
+  text-decoration: none;
+}
+
+a:hover, a:focus {
+  text-decoration: underline;
+}
+
+#footer a {
+  color: #808080; /* From http://clrs.cc */
+  text-decoration: none;
+}
+
+#footer a:hover, a:focus {
+  text-decoration: underline;
+}
+
+small {
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  margin: 0 0 0.5rem -0.1rem /* align left edge */;
+  line-height: 1;
+  color: #fff;
+  text-rendering: optimizeLegibility;
+}
+
+h1 {
+  font-size: 2.0rem;
+  padding-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 30rem) {
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 3rem;
+  }
+}
+
+h1 a {
+  color: inherit;
+}
+
+h2 {
+  padding-top: 1rem;
+  margin-top: 0;
+  font-size: 1.2rem;
+  padding-bottom: 0.75rem;
+}
+
+@media (min-width: 30rem) {
+  h2 {
+    padding-top: 1.5rem;
+    margin-top: 0;
+    font-size: 1.2rem;
+    padding-bottom: 1rem;
+  }
+}
+
+h3 {
+  padding-top: .5rem;
+  margin-top: 0;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+h4, h5, h6 {
+  padding-top: .5rem;
+  margin-top: 0;
+  font-size: 1rem;
+  font-style: italic;
+  font-weight: bold;
+}
+
+p, ul, ol, dl, table, pre, blockquote {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+ul, ol {
+  padding-left: 1.5rem;
+}
+
+dd {
+  margin-left: 1.5rem;
+}
+
+blockquote {
+  margin-left: 0;
+  margin-right: 0;
+  padding: .5rem 1rem;
+  border-left: .25rem solid #ccc;
+  color: #666;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+hr {
+  border: none;
+  margin: 1.5rem 0;
+  border-bottom: 1px solid #ccc;
+  position: relative;
+  top: -1px;
+}
+
+.container img, .container iframe {
+  max-width: 100%;
+}
+
+.container img {
+  margin: 0 auto;
+  display: block;
+}
+
+table {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+}
+
+td, th {
+  padding: .25rem .5rem;
+  border: 1px solid #ccc;
+}
+
+pre, code {
+  font-family: inherit;
+  background-color: #eee;
+}
+
+pre {
+  padding: .5rem 1rem;
+  font-size: 0.8rem;
+}
+
+code {
+  padding: .1rem .25rem;
+}
+
+pre > code {
+  padding: 0;
+}
+
+.container {
+  max-width: 30rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.float {
+  float: right;
+  clear: right;
+  padding: 1rem 0 1rem 1rem;
+  width: 50%;
+
+}
+.float img {
+  border-radius: 50%;
+}
+
+/* Header */
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  padding-top: 1rem;
+  background-color: unset;
+}
+h1.main {
+  font-size: 1.5rem;
+  margin: 0 0 1rem 0;
+  text-transform: uppercase;
+}
+header > * {
+  padding-right: 3%;
+}
+ul.visible_links {
+  list-item-type: none;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.masthead__menu-item {
+  display: inline;
+  padding-left: 1rem;
+  
+}
+
+@media only screen and (max-width: 1300px) {
+  header {
+    background-color: rgba(55, 17, 193, 0.6) !important;
+  }
+}
+
+/* Footer */
+
+p.footer {
+  margin: 0;
+}
+
+* {
+  transition: .25s;
+}
+
+
+
+
