@@ -11,13 +11,13 @@ layout: default
 
 I'm a composer and music producer for all sorts of media, including video games and theme songs for YouTube shows.
 
-I'm also 1/2 of <a target="_blank" href="https://www.spellboundfire.com">Spellboundfire</a> with co-producer Travalor, where we create modern music with lots of vibrant collaborators.
+I'm also 1/2 of <a target="_blank" href="https://www.spellboundfire.com">Spellboundfire</a> with co-producer <a href="https://www.instagram.com/travalor" target="_blank">Travalor</a>, where we create modern music with lots of vibrant collaborators.
 
 If you’d like to get in touch or collaborate, you can always email me at <a href="mailto:alexflannelmusic@gmail.com" target="_blank">alexflannelmusic@gmail.com</a>
 
 <a target="_blank" href="https://www.instagram.com/alexflannel/" class="social fa fa-instagram"/>
 <a target="_blank" href="https://soundcloud.com/alexflannel" class="social fa fa-soundcloud"/>
-<a target="_blank" href="https://spotify.com/alexflannel" class="social fa fa-spotify"/>
+<a target="_blank" href="https://open.spotify.com/artist/2R45s49xwTT8H3e60RqU5I?si=s1tEjbhyTo-9TI8O0ikpVQ&nd=1" class="social fa fa-spotify"/>
 
 <hr/>
 
