@@ -32,9 +32,9 @@ I have fond memories of every project I’ve worked on. Nothing beats a great co
 - Summary: "Adam and Jay from the reaction channel pReview'd have started an Actual Play TTRPG channel with their DM friend David Armstrong. Come by Mondays at 7pm EST as your #internetbestfriends, along with their comedian friends, as they goof and gab through the magical world of Wild Country."
 - Role: Co-Composer with <a href="http://amandalnicholas.com/" target="_blank">Amanda Nicholas</a>, Co-Producer with <a href="https://www.instagram.com/travalor" target="_blank">Travalor</a>
 
-### Time to Be a Hero
+### Hail and Well Met
 
-<iframe style="margin: 0 0 1em 0;" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1646102787%3Fsecret_token%3Ds-XlBVNPDqPSX&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/26wqiClSiqMgPrK4vf67RX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Ludicrous Text Adventures: Worthless Dirt Boys (2021)
 
