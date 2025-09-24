@@ -3,7 +3,7 @@ layout: default
 ---
 
   <div class="float">
-    <img src="content/images/alex_grover_grilled_cheese.jpg" alt="Alex Grover eating a grilled cheese in a diner."/>
+    <img src="content/images/alexpgrover.png" alt="Alex P. Grover surrounded by nature."/>
   </div>
 <hr/>
 
