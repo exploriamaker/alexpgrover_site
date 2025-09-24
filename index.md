@@ -3,7 +3,7 @@ layout: default
 ---
 
   <div class="float">
-    <img src="content/images/alex_flannel_grilled_cheese.jpg" alt="Alex Flannel eating a grilled cheese in a diner."/>
+    <img src="content/images/alex_grover_grilled_cheese.jpg" alt="Alex Grover eating a grilled cheese in a diner."/>
   </div>
 <hr/>
 
@@ -11,13 +11,7 @@ layout: default
 
 I'm a composer and music producer for all sorts of media, including video games and theme songs for YouTube shows.
 
-I'm also 1/2 of <a target="_blank" href="https://www.spellboundfire.com">Spellboundfire</a> with co-producer <a href="https://www.instagram.com/travalor" target="_blank">Travalor</a>, where we create modern music with lots of vibrant collaborators.
-
-If you’d like to get in touch or collaborate, you can always email me at <a href="mailto:alexflannelmusic@gmail.com" target="_blank">alexflannelmusic@gmail.com</a>
-
-<a target="_blank" href="https://www.instagram.com/alexflannel/" class="social fa fa-instagram"/>
-<a target="_blank" href="https://soundcloud.com/alexflannel" class="social fa fa-soundcloud"/>
-<a target="_blank" href="https://open.spotify.com/artist/2R45s49xwTT8H3e60RqU5I?si=s1tEjbhyTo-9TI8O0ikpVQ&nd=1" class="social fa fa-spotify"/>
+If you’d like to get in touch or collaborate, you can always email me at <a href="mailto:alexgroverworks@gmail.com" target="_blank">alexgroverworks@gmail.com</a>
 
 <hr/>
 
@@ -68,7 +62,7 @@ I have fond memories of every project I’ve worked on. Nothing beats a great co
 
 <iframe style="margin: 0 0 1em 0;" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/870359632%3Fsecret_token%3Ds-MOj4PxshVGz&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-## Garden Life (2020)
+<!-- ## Garden Life (2020)
 
 - Type: Garden Simulator
 - Creator: Joe Frizzell
@@ -99,7 +93,7 @@ I have fond memories of every project I’ve worked on. Nothing beats a great co
 
 ### “The Race Chooses You (Main Theme)”
 
-<iframe style="margin: 1em 0;" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/870359623%3Fsecret_token%3Ds-GX3EHU39r5J&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+<iframe style="margin: 1em 0;" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/870359623%3Fsecret_token%3Ds-GX3EHU39r5J&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe> -->
 
 <!-- <hr/>
 
