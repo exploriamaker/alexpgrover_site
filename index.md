@@ -16,17 +16,19 @@ If you’d like to get in touch or collaborate, you can always email me at <a hr
 <hr/>
 
 # Projects
-
-I have fond memories of every project I’ve worked on. Nothing beats a great collaboration. Through these projects, <a href="https://store.steampowered.com/app/934840/FrostRunner/" target="_blank">thousands of players</a> have heard my music across the world. It’s a weird thing to say, but, ya know, the Internet.
-
-## Bonus Action
+## <a href="https://www.youtube.com/@BonusActionRPG" target="_blank">Bonus Action</a>
 
 - Type: Actual Play TTRPG channel
 - Creator: pReview'd
-- Summary: "Adam and Jay from the reaction channel pReview'd have started an Actual Play TTRPG channel with their DM friend David Armstrong. Come by Mondays at 7pm EST as your #internetbestfriends, along with their comedian friends, as they goof and gab through the magical world of Wild Country."
-- Role: Co-Composer with <a href="http://amandalnicholas.com/" target="_blank">Amanda Nicholas</a>, Co-Producer with <a href="https://www.instagram.com/travalor" target="_blank">Travalor</a>
+- Summary: "Adam and Jay from the reaction channel pReview'd have started an Actual Play TTRPG channel with their DM friend David Armstrong. Come by Mondays at 8pm EST as your #internetbestfriends, along with their comedian friends, as they goof and gab through the magical world of Wild Country."
+- Works:
+  - "Hail and Well Met" (Theme Song): Co-Composer with <a href="http://amandalnicholas.com/" target="_blank">Amanda Nicholas</a>,
+          Co-Producer with <a href="https://www.instagram.com/travalor" target="_blank">Travalor</a>
+  - Vol. 3 Themes (Coming Soon!): Composer with musical guidance from <a href="http://amandalnicholas.com/"
+            target="_blank">Amanda Nicholas</a>
 
-### Hail and Well Met
+
+### "Hail and Well Met"
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/26wqiClSiqMgPrK4vf67RX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -61,50 +63,3 @@ I have fond memories of every project I’ve worked on. Nothing beats a great co
 ### “Ice Flow (Main Theme)”
 
 <iframe style="margin: 0 0 1em 0;" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/870359632%3Fsecret_token%3Ds-MOj4PxshVGz&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
-
-<!-- ## Garden Life (2020)
-
-- Type: Garden Simulator
-- Creator: Joe Frizzell
-- Summary: Sometimes, ya just have a hankering for watering plants and 🌱 watching them grow 🌺
-- Role: Composer + Sound Designer
-
-### “Day Theme/Night Theme”
-
-<iframe style="margin: 0 0 1em 0;" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/947023894%3Fsecret_token%3Ds-rvsOEa25Y1L&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
-
-## Blood Bath & Beyond (2020)
-
-- Type: Text Adventure
-- Creator: Neil Floyd
-- Summary: “A fantasy text adventure into the dark heart of retail” — Neil Floyd, author
-- Role: Composer
-
-### The Customer is Always Dead
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/872353018%3Fsecret_token%3Ds-icrVIRpiE1n&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
-
-## Interstellar Racing League (2018)
-
-- Type: 3D Racing
-- Creator: SMU Guildhall
-- Summary: “Interstellar Racing League is a 4-player couch competitive splitscreen racing game in a futuristic sci-fi setting” — Gerald Milton, game producer
-- Role: Composer
-
-### “The Race Chooses You (Main Theme)”
-
-<iframe style="margin: 1em 0;" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/870359623%3Fsecret_token%3Ds-GX3EHU39r5J&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe> -->
-
-<!-- <hr/>
-
-# Ethos
-
-I think it was _Heroes of Might and Magic_ for Game Boy Color that really did it for me.
-
-On long car rides, I’d stick the speaker in my ear and let the title menu theme play. Honestly, I think it’s the perfect theme, and does what it sets out to:
-
-- creates a specific mood
-- includes only what’s necessary to achieve that mood
-- captures the player’s imagination
-
-These are my goals for any of my compositions. I’ve happily followed this regimen in the several collaborations I’ve been a part of. -->
