@@ -8,6 +8,7 @@ const tagFilters = [
   { key: 'soundcloud', label: 'SoundCloud' },
   { key: 'spotify', label: 'Spotify' },
   { key: 'coming-soon', label: 'Coming soon' },
+  { key: 'soundtrack', label: 'Soundtrack' },
 ];
 
 const tagLabels = Object.fromEntries(tagFilters.map(({ key, label }) => [key, label]));
@@ -19,12 +20,32 @@ const projects = [
     type: 'Actual play TTRPG channel',
     creator: "Creator: pReview'd",
     tags: ['actual-play', 'theme-song', 'spotify'],
+    workLayout: 'paired',
     summary:
       'Adam and Jay from the reaction channel pReview\'d started an actual play TTRPG channel with their DM buddy David Armstrong! Come by Mondays at 8pm EST as Adam, Jay, and their comedian friends goof and gab through the magical world of Wild Country.',
     works: [
       {
+        title: 'Bonus Action Season III',
+        role: 'Spotify embed',
+        tags: ['soundtrack', 'spotify'],
+        detail: (
+          <>
+            Composer with musical guidance from{' '}
+            <a href="http://amandalnicholas.com/" target="_blank" rel="noreferrer">
+              Amanda Nicholas
+            </a>
+            .
+          </>
+        ),
+        embed: {
+          title: 'Bonus Action Volume III Spotify album embed',
+          src: 'https://open.spotify.com/embed/album/6uDfQzZtEZfOlYR5MiY45w?utm_source=generator&theme=0',
+          height: 352,
+        },
+      },
+      {
         title: 'Hail and Well Met',
-        role: 'Theme song',
+        role: 'Spotify embed',
         tags: ['theme-song', 'spotify'],
         detail: (
           <>
@@ -44,20 +65,6 @@ const projects = [
           src: 'https://open.spotify.com/embed/album/26wqiClSiqMgPrK4vf67RX?utm_source=generator',
           height: 352,
         },
-      },
-      {
-        title: 'Vol. 3 Themes',
-        role: 'Coming soon',
-        tags: ['theme-song', 'coming-soon'],
-        detail: (
-          <>
-            Composer with musical guidance from{' '}
-            <a href="http://amandalnicholas.com/" target="_blank" rel="noreferrer">
-              Amanda Nicholas
-            </a>
-            .
-          </>
-        ),
       },
     ],
   },
@@ -209,7 +216,7 @@ function App() {
             <p className="eyebrow">Composer, producer, collaborator</p>
             <h1>Music that drives storytelling.</h1>
             <p className="lede">
-              Hi, I&apos;m Alex! I write and produce for video games, TTRPG
+              Hi, I&apos;m Alex! I write and produce music for video games, TTRPG
               channels, and other media that need a memorable musical identity (aka "the good stuff").
             </p>
 
@@ -344,12 +351,11 @@ function App() {
                   {project.reception ? <p>{project.reception}</p> : null}
                 </div>
 
-                <div className="work-grid">
+                <div className={`work-grid${project.workLayout ? ` work-grid--${project.workLayout}` : ''}`}>
                   {project.visibleWorks.map((work) => (
                     <section className="work-card" key={work.title}>
                       <div className="work-card__header">
                         <div className="work-card__title-block">
-                          <p className="work-card__kicker">{work.role}</p>
                           <h4>{work.title}</h4>
                         </div>
                         <div className="tag-rail work-card__tags" aria-label={`${work.title} tags`}>
